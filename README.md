@@ -12,3 +12,7 @@
 npm init -y
 npm install playwright
 npx playwright install chromium
+Запустіть тест командою:
+node test.spec.js
+
+Використаний інструмент ШІ: Gemini
